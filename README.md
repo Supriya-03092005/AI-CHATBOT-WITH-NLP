@@ -47,6 +47,10 @@ python train.py
 4. Run the chatbot
 python chatbot.py
 
+**Output**
+
+<img width="1004" height="422" alt="Image" src="https://github.com/user-attachments/assets/9f7cef1f-6a1b-41de-bd83-3613434c26d6" />
+
 ## Example Use Cases
 - Customer support chatbot
 - College enquiry system
